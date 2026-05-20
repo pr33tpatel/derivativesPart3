@@ -1,0 +1,132 @@
+
+0:011 secondyo what's up all right so uh the reason why I'm making this is because I found
+0:099 secondswell I think it's a pretty cool way to think about derivatives uh and it really helped me
+0:1616 secondslike it provided a visual representation of it I mean Dr Hoffman just
+0:2424 secondsI don't know like not the best visual representation person uh so is it the way
+0:3535 secondsso the way to actually think about what a derivative is well it's just this the derivative is just a slope at any given point
+0:4343 secondsum and actually let's begin with just basic algebra
+0:5050 secondsso if you have um X and Y plan
+0:5858 secondsand you have a a function that looks like that looks like that
+1:061 minute, 6 secondsyou can just call this function f of x pretty standard and then if you want to find the slope of this function it wouldn't really be
+1:151 minute, 15 secondsthat hard to do we know what to do we will just calculate rise over run right
+1:231 minute, 23 secondsso let's give this a function some points this can be one which can be two
+1:321 minute, 32 secondssame over here so to calculate the slope
+1:421 minute, 42 secondsit would just be 2 minus one over two minus one which is one I mean not hard right so
+1:481 minute, 48 secondsthis just says that all right each y it increases it increases by one next value for each y value it increases by which
+1:561 minute, 56 secondsis one it increases by One X value also that's not hard but this is Impractical because you don't find
+2:052 minutes, 5 secondsuh what do you call like values that correspond like this in nature that often usually you find values like let me draw
+2:142 minutes, 14 secondsanother graph here usually a lot of the time you find values that look like
+2:232 minutes, 23 secondsthis uh I look like this okay
+2:352 minutes, 35 secondsand it's just not probable to find like straight nice whole number of values a lot of them a lot of times they're gonna
+2:432 minutes, 43 secondsbe curvy or Jagged like that like this or like that and if you want to find the slope of
+2:512 minutes, 51 secondsthose points you cannot use the rise of a run method because okay let's just see what would happen if you were to use it
+2:592 minutes, 59 secondsand we can use the same example as we did in the other graph so you would have two here one here
+3:073 minutes, 7 secondsone here and two two here and if we want to calculate the slope it would be two minus one over one
+3:163 minutes, 16 secondsminus two negative one right yeah
+3:253 minutes, 25 secondsum so but like the the slope of this of the
+3:333 minutes, 33 secondsred line is not negative one obviously because negative one would be like like that so if you want to find the
+3:423 minutes, 42 secondsslope of let's just say a point here you cannot do the rise over run method
+3:503 minutes, 50 secondsum so what you would actually want to do is find the derivative of it um so derivative like I said it's just
+3:573 minutes, 57 secondsthe slope at any given point at any given time so uh
+4:044 minutes, 4 secondsand that is what we call a tangent tangent the root word of tangent is tan or tange
+4:114 minutes, 11 secondsand same thing as tangible tangible means you can touch it tangent means it touches it touches the
+4:214 minutes, 21 secondscurve so it would look something like that's not good it would look oh
+4:324 minutes, 32 secondsit would look something like this uh close enough you understand what I'm saying like the slope of this point
+4:404 minutes, 40 secondstouches the actual curve so if you want to find the slope of the
+4:474 minutes, 47 secondspurple line the slope of the tangent um you can't use rise over run because you
+4:554 minutes, 55 secondsonly have one point to go off of to use rise over run you need two points you only have one point here so it doesn't really work
+5:035 minutes, 3 secondsbut if you can imagine a Museum out
+5:155 minutes, 15 secondsokay imagine you had a unit circle right and
+5:235 minutes, 23 secondsso let me go and erase some of this stuff
+5:315 minutes, 31 secondsimagine at a unit circle so you would
+5:405 minutes, 40 secondslike that and the tangent would be
+5:515 minutes, 51 secondsthis line right here it you see how it touches at this point just like how it does up here on this graph
+5:585 minutes, 58 secondsit touches right here it touches the unit circle also now again like I said there's only one
+6:066 minutes, 6 secondspoint here so you can't calculate rise over run but if you had at two points then you could so if you
+6:146 minutes, 14 secondshave a bunch of lines that go across like this
+6:276 minutes, 27 secondslike that and all the blue lines are called secants um and if you think about it that makes
+6:356 minutes, 35 secondssense because it's this is a unit circle in the middle right here the radius is one
+6:426 minutes, 42 secondsit if you think back to trig it makes sense why we use a unit circle to calculate radians and secants
+6:516 minutes, 51 secondsuh but back to back to the tangent if you have two points then you can calculate
+6:586 minutes, 58 secondsthe slope of these lines easy just rise over run and
+7:057 minutes, 5 secondslike you see as you're getting closer to the tangent the length of the chord inside like this is the
+7:137 minutes, 13 secondslength of the chord inside it's getting smaller and smaller and smaller and smaller and smaller so if the length right here is one then
+7:247 minutes, 24 secondsthe next line is going to be like 0.09 then point like 0.9
+7:327 minutes, 32 secondsto 0.85 to 0.8 and eventually it's going to get down to like 0.0001
+7:427 minutes, 42 secondsbut it's still not going to touch the the purple line they're still gonna be like an infinite number of decimals
+7:497 minutes, 49 secondsbetween the secants and the tangent but you can work with that because it gives you two points to go off of and
+7:567 minutes, 56 secondsthat's basically in my opinion it like this just makes sense in my mind that's
+8:038 minutes, 3 secondsa good definition of a limit because as X approaches zero you're getting
+8:108 minutes, 10 secondscloser and closer to the tangent so if we were to
+8:188 minutes, 18 secondslet's let's go and draw a new set of axes yeah playing sum this up
+8:278 minutes, 27 secondsum and we can okay
+8:358 minutes, 35 secondsa new set of axes right
+8:458 minutes, 45 secondsactually this
+8:548 minutes, 54 secondsand we're gonna have a curve that looks like
+9:079 minutes, 7 secondsoh perfect there we go this can be a curve and we're just going to call it
+9:129 minutes, 12 seconds[Music]
+9:139 minutes, 13 secondsum function y equals f equals F of
+9:229 minutes, 22 secondsX f now if we are after is the gradient of a
+9:299 minutes, 29 secondsnot the gradient sorry the slope of a tangent you got to start thinking about the
+9:379 minutes, 37 secondsslope of secants as they get closer to the tangent so these are the slopes of secants and you can see like
+9:469 minutes, 46 secondsthe the length of the length of the sequence or getting
+9:539 minutes, 53 secondssmaller and smaller and smaller and smaller like you see the red lines you see how they're getting closer together as they approach the tangent
+10:0210 minutes, 2 secondsnow I can't really give the best representation because I mean for these lines to be almost touching each other
+10:1210 minutes, 12 secondsit would go well it does go on to Infinity right and so these are the slopes of the secant
+10:2210 minutes, 22 secondsthis is the slope well you're trying to find the slope of the tangent so in order to get the slope of a secant
+10:2910 minutes, 29 secondsthat's not hard you just pick points you can pick any points you like you can pick let's just say this point here and that point there and
+10:3810 minutes, 38 secondsso the slope of the secant would would look like that yeah
+10:4610 minutes, 46 secondsand let's just say the slope like you like your derivative the slope of a tangent your tangent is somewhere in between
+10:5410 minutes, 54 secondshere you can see how like like do you see how the slope of this is kind of similar to the slope of this
+11:0111 minutes, 1 secondlike your it was sent a ballpark yeah now
+11:0711 minutes, 7 secondsuh let's give the points some values so this value we can have
+11:1511 minutes, 15 secondsthe first value you can we can just call X in this value we can just call okay well
+11:2211 minutes, 22 secondsthe first value is X right because it's f of x and the slope which the distance between
+11:2911 minutes, 29 secondsthe two values we call that h just or whatever random reason don't know why
+11:3711 minutes, 37 secondsnow if because X the value of x is just the distance between the origin
+11:4511 minutes, 45 secondsand this point that's just what all X's H is the distance between the origin and
+11:5211 minutes, 52 secondsthis point right so this point is just
+11:5911 minutes, 59 secondsX Plus H yeah so if you have X values
+12:1612 minutes, 16 secondsif you have X values you're going to need y values right
+12:2512 minutes, 25 secondsso let's hold up a tab Now by accident
+12:3412 minutes, 34 secondsokay so we have X values we're going to need
+12:4212 minutes, 42 secondsy values so we can just call
+12:5012 minutes, 50 secondsthis part right here we can call this part f of x right
+12:5912 minutes, 59 secondsbecause it corresponds to X and we can we can call this part up here
+13:0613 minutes, 6 secondsf of x plus h now to get to get the value of a secant it's not
+13:1413 minutes, 14 secondshard all you would need to do is f of x plus h minus
+13:2413 minutes, 24 secondsf of x over so we have
+13:3113 minutes, 31 secondsuh this is just your rise and we can put that over your
+13:3813 minutes, 38 secondsrun and your run is X Plus H minus X and you can see that
+13:4913 minutes, 49 secondsthe X's cancel out so you just have H so let me Zoom out
+14:0214 minutes, 2 secondsand
+14:1714 minutes, 17 secondsokay so we can rewrite this equation and write it as
+14:2714 minutes, 27 secondsum the slope of your secant equals f
+14:3514 minutes, 35 secondsof X Plus H minus f of x
+14:4314 minutes, 43 secondsover H right now your H can't be zero because you have to
+14:5214 minutes, 52 secondsdivide by zero right okay so I just reformatted it but essentially what you have is
+15:0215 minutes, 2 secondsum you have M like M secant is the slope of your secant this is your secant
+15:1015 minutes, 10 secondsbut the secant isn't really what you want you want the slope of your uh of your tangent which is called the
+15:1815 minutes, 18 secondsderivative now to get to the derivative you see how let's just say
+15:2615 minutes, 26 secondsderivative is right here okay
+15:3415 minutes, 34 secondsthat's your derivative and again like I said we can't use rise over run but if we have tangents if if
+15:4215 minutes, 42 secondsour tangent gets so close that it's basically on our derivative or extremely
+15:4915 minutes, 49 secondslike there's space in between that secant and that uh tangent but it's
+15:5715 minutes, 57 secondsinsignificant and you can get it can get infinitely smaller well for you to do that your X
+16:0516 minutes, 5 secondshas to get your x value has to decrease so if your x value I mean your M your H value has
+16:1116 minutes, 11 secondsto decrease sorry so if your H value got smaller and smaller and smaller until it's just like
+16:1916 minutes, 19 secondsalmost touching your H would go to zero but your H can't
+16:2716 minutes, 27 secondsbe zero because you have to divide by H and you can't divide by zero so what you would say is
+16:3516 minutes, 35 secondsjust give me the limit of H which would be so
+16:4616 minutes, 46 secondsoh he's going to just have the limit of H go to zero so that would mean that
+16:5516 minutes, 55 secondsthe slope of the tangent is limit
+17:0117 minutes, 1 secondas H approaches zero so your H isn't exactly there but it's basically there so it could be any value it could be like 0.0001.
+17:1217 minutes, 12 secondsnot zero but practically there of X or let me
+17:3217 minutes, 32 secondsso you see how majority of the portion of the slope of your derivative is just the secant
+17:4017 minutes, 40 secondsit's just as you're secant gets like almost infinitely small then you
+17:4717 minutes, 47 secondsget the slope of your tangent and another way of writing that is
+17:5517 minutes, 55 secondsd y over d x because that's Delta y so
+18:0218 minutes, 2 secondsand Delta just means change over the change in X another notation of writing it but
+18:1018 minutes, 10 secondsso if your secants get instantaneously small then you'll event you'll eventually have
+18:1818 minutes, 18 secondsa pseudo tangent as H goes to zero
+

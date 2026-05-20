@@ -1,0 +1,65 @@
+0:00yeah so I'm back uh on part one of the derivatives  I went more of the bigger picture this time I'm  
+0:1111 secondsgonna be focusing more on the graph so  over here on the left side of the screen  
+0:1919 secondsI have the equation for a secant and the equation  for a derivative M tan or d y over DX both both of  
+0:2929 secondsthese are the same thing and this means the slope  of the tangent and the derivative is the slope of  
+0:3636 secondsthe tangent, uh the only real difference between  these two is that uh the slope of the tangent  
+0:4545 secondsis as limit as H as the limit of H approaching  zero but most of it is just the same as  
+0:5757 secondsthe secant equation so pretty pretty easy to  understand I'm going to draw the unit circle again  
+1:041 minute, 4 secondsjust to give a little refresher on  the correspondence between secants  
+1:111 minute, 11 secondsand derivatives can you see again  some blue and derivative is in purple  
+1:151 minute, 15 secondsso let's start off quadrangular derivative first  so again derivative it only Touches at one point  
+1:251 minute, 25 secondsso that only touches that one point on our  Circle and that's you can call that point a
+1:331 minute, 33 secondspoint hey right and a secant the definition of a  secant is any lines that crosses the circle twice  
+1:441 minute, 44 secondsso that has that crosses here and here right  and I think it we can use rise over run  
+1:521 minute, 52 secondsbecause it has two points a tangent we cannot  use rise over run because it only has one point  
+2:002 minutesand um so we have a secant there let's let's  just say we have another secant here another   one here another one here another one  here another one here another one there  
+2:112 minutes, 11 secondsyou see how the length of the secant kind of  funnel cords like they get shorter and shorter  
+2:192 minutes, 19 secondskind of make that it let me draw another  representation of it it's kind of like
+2:282 minutes, 28 secondskind of like like that and then you  eventually get to your derivative right the  
+2:372 minutes, 37 secondsthe length of the secants gets smaller as you're  approaching your derivative this is a visual  
+2:452 minutes, 45 secondsrepresentation of your limit and this is how I  like to think of it and we can even give each of  
+2:522 minutes, 52 secondsthese blue lines of value like this one could  be one this one can be 0.5 of course it's not  
+2:592 minutes, 59 secondsdrawn to scale this this can be zero point four  0.1 and like this very last one can be 0.0001  
+3:103 minutes, 10 secondsand uh they'll have an infinite number of dots  between this purple Dot and the blue one above it  
+3:173 minutes, 17 secondsjust cause it goes on forever uh and  over here on our axes we have X and Y  
+3:263 minutes, 26 secondsand so we're going to have our secant can be  any two points so we're gonna have a secant here  
+3:353 minutes, 35 secondsand a secant of here and let's just say our  tangent the line that touches the the tangent  
+3:453 minutes, 45 secondsthe point of finding the tangent is because we  want to find the slope between this given area  
+3:533 minutes, 53 secondsright and it like if you were to do it  algebraically you would do rise over  
+4:004 minutesrun which would mean you would do X1 over  or y1 minus Y2 minus y1 over X2 minus X1
+4:124 minutes, 12 secondsbut I'm gonna show why that's not  really an accurate representation   and why it doesn't really work for this scenario
+4:264 minutes, 26 secondsright so the other point set of uh and  I covered this over the last in the last  
+4:314 minutes, 31 secondsvideo go watch that if you need to but our  secant is gonna our derivative let me just  
+4:394 minutes, 39 secondsbecause right there right it's a point a now the slope of our secant you can do the formula  
+4:484 minutes, 48 secondsif you do to find the slope of the  secant it's this formula right here   and a visual representation of the slope  would be something like that thank you
+5:045 minutes, 4 secondslike that good enough and you can see  how I'm within the ballpark of finding  
+5:105 minutes, 10 secondsthe slope of this point like it's close but  it's not exactly there that's why the uh
+5:265 minutes, 26 secondsmy bad
+5:495 minutes, 49 secondsokay good we're good that's why uh so like I  was saying the the slope right here another way  
+5:575 minutes, 57 secondsof call uh another way of writing um SEC is  average velocity another way of writing M10 is  
+6:086 minutes, 8 secondsinstantaneous velocity because your tangent or  the slope of your tangent gets you the slope at  
+6:166 minutes, 16 secondsan instant Point like at one single point at that  instant and your secant will give you the slope  
+6:236 minutes, 23 secondsover uh over uh like a multitude of points the  average so the blue one is the average slope of  
+6:326 minutes, 32 secondsthis red line here another visual representation  the whole thing's about visual about visually  
+6:376 minutes, 37 secondsrepresenting a derivative now uh same the  example I was using here where my cursor is over  
+6:466 minutes, 46 secondsyou see how the secant lines funnel towards  the derivative so if we were going to have  
+6:536 minutes, 53 secondssecants that do that and uh and that into that or
+7:027 minutes, 2 secondsCircle let me get a finer point there we go
+7:087 minutes, 8 secondsa second there a second there you can see how  the space between the sequence gets smaller   and what do we call that space we call it h  
+7:187 minutes, 18 secondsso we we can just call this H1 which is  the uh the space between our original  
+7:257 minutes, 25 secondspoints and we can give the point of values  off so we can call this point the e and C
+7:377 minutes, 37 secondsso um H1 is the is the distance between  point B and C this point can be e  
+7:497 minutes, 49 secondsand F and that would be H2
+7:577 minutes, 57 secondsH2 and it each one of these secant  lines would have an H but let's just  
+8:038 minutes, 3 secondsget let's just skip to the closest one it's a  derivative that I have represented these will  
+8:108 minutes, 10 secondsget infinitely closer to the derivative  but we can just call this a point G and H  
+8:198 minutes, 19 secondsor let's not use h G and whatever um where'd you  take my and you have a g and Q now the distance  
+8:318 minutes, 31 secondsbetween them two between those two points you  can just call H 3. now you see how the distance  
+8:408 minutes, 40 secondsbetween the two points is getting closer and  closer that's another way of representing  
+8:468 minutes, 46 secondsas H approaches zero because like we can't even  get the distance between the two values um like  
+8:548 minutes, 54 secondsnumerical numbers so this can be a value of two  but we can even yeah two feet this can be 0.5
+9:069 minutes, 6 secondsfeet and this can be 0.0001
+9:149 minutes, 14 secondsfeet you see how the the values  are getting closer and closer
+9:239 minutes, 23 secondsthat's because your H the distance between  your two points is approaching zero  
+9:299 minutes, 29 secondsand I hope that helped you  understand why H approaches  
+9:349 minutes, 34 secondszero and the relationship between a secant  line and the tangent line and that's all
