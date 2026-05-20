@@ -1,0 +1,9 @@
+line-length = 150
+indent-width = 4
+
+[format]
+indent-style = "space"
+skip-magic-trailing-comma = false 
+
+[lint]
+select = ["I"]
